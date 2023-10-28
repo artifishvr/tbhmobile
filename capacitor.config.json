@@ -1,0 +1,11 @@
+{
+  "appId": "lol.arti.tbh",
+  "appName": "tbhmobile",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

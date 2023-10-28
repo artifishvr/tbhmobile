@@ -1,0 +1,7 @@
+{
+  "name": "tbh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

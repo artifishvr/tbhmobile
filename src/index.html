@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Yippie!!!!</title>
+    <meta name="description" content="the tbh creature">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./tbh.css">
+</head>
+
+<body ondragstart="return false">
+
+    <img src="./tbh.png" id="tbh" alt="tbh">
+    <div class="" id="snackbar">Try clicking!</div>
+
+
+    <script type="module">
+        import yippee from './tbh.js';
+
+        document.addEventListener('click', function (event) {
+
+            // If the clicked element doesn't have the right selector, bail
+            if (!event.target.matches('#tbh')) return;
+
+            // Don't follow the link
+            event.preventDefault();
+
+            yippee();
+
+        }, false);
+    </script>
+</body>
+
+</html>

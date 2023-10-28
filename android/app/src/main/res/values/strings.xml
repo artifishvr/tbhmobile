@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">tbh</string>
+    <string name="title_activity_main">tbh</string>
+    <string name="package_name">lol.arti.tbh</string>
+    <string name="custom_url_scheme">lol.arti.tbh</string>
+</resources>
