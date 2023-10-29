@@ -7,7 +7,7 @@ sequel to [artificialbutter/tbhdesktop](https://github.com/artificialbutter/tbhd
 2. Install the apk
 
 ### iOS
-1. Download the latest release from the [releases page](https://github.com/artificialbutter/tbhmobile/releases) (not yet available)
+1. Download the latest release from the [releases page](https://github.com/artificialbutter/tbhmobile/releases)
 2. Install the ipa using [AltStore](https://altstore.io/) or [Sideloady](https://github.com/jt52525/sideloady)
 ## Building
 Base Requirements:
