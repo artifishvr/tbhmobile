@@ -18,6 +18,7 @@
     "@capacitor/android": "^5.5.1",
     "@capacitor/camera": "latest",
     "@capacitor/core": "latest",
+    "@capacitor/haptics": "^5.0.6",
     "@capacitor/ios": "5.5.1",
     "@capacitor/splash-screen": "latest",
     "canvas-confetti": "^1.9.0"
