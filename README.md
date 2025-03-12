@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Mobile support has been added to the [parent project](https://github.com/artifishvr/tbhdesktop), therefore this repository has been archived and will not recieve potential security updates or bugfixes.
+
 # tbh mobile
 sequel to [artificialbutter/tbhdesktop](https://github.com/artificialbutter/tbhdesktop)
 
